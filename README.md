@@ -1,5 +1,9 @@
 # Atividade Prática - SOLID
 
+aluno:Mikael
+Disciplina:Engenharia de Software
+tema:identificação e Refatoração de código legado
+
 ## Parte 1 - Identificação das Violações
 
 ### Violação do ISP
