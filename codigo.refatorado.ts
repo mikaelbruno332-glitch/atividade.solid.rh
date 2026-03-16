@@ -70,3 +70,14 @@ class Estagiario implements Trabalhavel, RegistravelPonto, Programavel {
     console.log("Estagiário escrevendo código");
   }
 }
+class Freelancer implements Trabalhavel, Programavel {
+
+  trabalhar(): void {
+    console.log("Freelancer trabalhando");
+  }
+
+  escreverCodigo(): void {
+    console.log("Freelancer escrevendo código");
+  }
+
+}
